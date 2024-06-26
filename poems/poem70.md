@@ -31,4 +31,4 @@ The ace for whom it beckons
 The result you want is right there \
 You rest well then get up here 😚
 
-[back](/index-page.html)
+[back](../index-page.html)
