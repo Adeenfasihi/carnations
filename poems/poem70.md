@@ -13,7 +13,7 @@ Knowledge spilt on parchments
 Like NLP, you'll conquer all \
 Come back home and take a fall 
 
-On the bed until you rise again \ 
+On the bed until you rise again \
 Show them what you have gained 
 
 A nerd is what you look like  \
@@ -31,4 +31,4 @@ The ace for whom it beckons
 The result you want is right there \
 You rest well then get up here 😚
 
-[back](./index-page.html)
+[back](/index-page.html)
