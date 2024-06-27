@@ -18,7 +18,7 @@ You never rest at ease \
 Perhaps you could find some solace \
 In the words that you read \
 Knowing you are not the only one \
-Who can see how you feel \
+Who can see how you feel
 
 Perhaps superfluous \
 But there's no disregard \

@@ -5,20 +5,29 @@ layout: default
 # Index
 
 *   [2024-06-28: Feelin' 22](./poems/poem71.html)
-*   [2024-06-25: This morning you step outside](./poems/poem70.html)
-<!-- *   [2023-02-14: I spill my heart out to you](./poems/poem59.html)
-*   [2023-02-14: I spill my heart out to you](./poems/poem58.html)
-*   [2023-02-14: I spill my heart out to you](./poems/poem57.html) -->
-*   [2023-02-14: Taste of you](./poems/poem56.html)
-*   [2023-02-14: Work hard, play hard](./poems/poem55.html)
-*   [2023-02-14: Blurry eyes](./poems/poem54.html)
-*   [2023-02-14: Tiring days](./poems/poem53.html)
-*   [2023-02-14: Faces sullen](./poems/poem52.html)
-*   [2023-02-14: Never let go ](./poems/poem51.html)
-*   [2023-02-14: Purple scrunchie](./poems/poem50.html)
+*   [2024-06-25: Exam time](./poems/poem70.html)
+*   [2024-06-23: Kingdom of dreams](./poems/poem69.html)
+
+*   [2024-05-07: Homewards](./poems/poem65.html)
+*   [2024-05-06: Flew away](./poems/poem66.html)
+*   [2024-04-20: Lullaby](./poems/poem64.html)
+*   [2024-04-11: Field of blooms](./poems/poem63.html)
+*   [2024-02-21: Longing](./poems/poem62.html)
+*   [2024-02-14: Uni demons](./poems/poem61.html)
+*   [2024-02-14: Cold wind](./poems/poem60.html)
+*   [2024-02-14: Ishq](./poems/poem59.html)
+*   [2024-02-14: Transparency](./poems/poem58.html)
+*   [2024-02-14: Little world](./poems/poem57.html)
+*   [2024-02-14: Taste of you](./poems/poem56.html)
+*   [2024-02-14: Work hard, play hard](./poems/poem55.html)
+*   [2024-02-14: Blurry eyes](./poems/poem54.html)
+*   [2024-02-14: Tiring days](./poems/poem53.html)
+*   [2024-02-14: Faces sullen](./poems/poem52.html)
+*   [2024-02-14: Never let go ](./poems/poem51.html)
+*   [2024-02-14: Purple scrunchie](./poems/poem50.html)
 *   [2023-02-14: Pretend](./poems/poem49.html)
 *   [2023-02-14: Story of You & I](./poems/poem48.html)
-<!-- *   [2023-02-14: I spill my heart out to you](./poems/poem47.html) -->
+
 *   [2023-02-14: Morning sunshine](./poems/poem46.html)
 *   [2023-02-14: Wings](./poems/poem45.html)
 *   [2023-02-14: Longball game](./poems/poem44.html)
@@ -65,6 +74,11 @@ layout: default
 *   [2023-02-14: A place I want to be](./poems/poem3.html)
 *   [2023-02-14: From your eyes](./poems/poem2.html)
 *   [2023-02-14: I spill my heart out to you](./poems/poem1.html)
+
 <!-- *   [2024-06-25: This morning you step outside](./index.html#this-morning-you-step-outside) -->
+
+<!-- *   [2023-02-14: I spill my heart out to you](./poems/poem47.html) 
+*   [2023-02-14: Flamboyantly flabbergasted](./poems/poem68.html)
+*   [2023-02-14: Shifting routine](./poems/poem67.html) -->
 
 [back](./)
