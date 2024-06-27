@@ -6,34 +6,37 @@ layout: default
 
 * * *
 
-## this-morning-you-step-outside
+## Feelin' 22
 
-This morning you step outside \
-Take a stride, show your might 
+It's the day you turn 22,  \
+Leading a beautiful life but with a little blue,  \
 
-The first to come, a war of words \
-Knowledge spilt on parchments
+A work of art, a human true,  \
+Sitting in a car, beside your boo,  \
 
-Like NLP, you'll conquer all \
-Come back home and take a fall 
+You my baby, shine bright,  \
+The life in you radiates outside,  \
 
-On the bed until you rise again \
-Show them what you have gained 
+The smarty brains you possess,  \
+Focusing on the days you get,  \
 
-A nerd is what you look like  \
-But you don't back down from a fight 
+Today it is twenty two,  \
+Tomorrow it will be ninety two,  \
 
-Determined is how I put it \
-While headstrong also fits
+You'll have a beautiful time,  \
+On this earth,  \
 
-You work hard my dear, \
-Are smart to boot, 
+With me by your side,  \
+Together on the berth,  \
 
-A force to be reckoned \
-The ace for whom it beckons
+I hope this day is special for you,  \
+As much as you are to me,  \
 
-The result you want is right there \
-You rest well then get up here 😚
+In two years time it'll be,  \
+You and me together across the sea,  \
+
+Love you Haffu, meri jaan,  \
+I hope you get a lot of aam 🤭
 
 <!-- # Header 1
 
